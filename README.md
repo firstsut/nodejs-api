@@ -17,6 +17,6 @@ NodeJS (Express) + MongoDB build simple restful api
 
 <pre>
     1. Open <a href="http://127.0.0.1:3000">http://127.0.0.1:3000</a>
-    2. Test api <a href="http://127.0.0.1:3000/rentals">http://127.0.0.1:3000/rentals</a>
+    2. Test api <a href="http://127.0.0.1:3000/api/rentals">http://127.0.0.1:3000/api/rentals</a>
 </pre>
 
